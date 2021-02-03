@@ -27,7 +27,7 @@ array = ["wow", "I", "am", "really", "learning", "arrays!"]
   array.shift
 end
 
-def retrieve_element_from_index(array, index number)
+def retrieve_element_from_index(array, index_number)
 array = ["wow", "I", "am", "really", "learning", "arrays!"]
 index_number = 2
 array[index_number]
